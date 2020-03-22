@@ -1,1 +1,1 @@
-web: gunicorn covid19-cases-switzerland.wsgi --log-file -
+web: python Visualization_BAG_Data.py
