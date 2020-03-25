@@ -1,5 +1,4 @@
 date,country,abbreviation_canton,name_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed
-18/03/2020 17:00,DE,HA,Hamburg,53.449406,10.327495,,,,,,,,,2000,
 18/03/2020 17:00,CH,AG,Aargau,47.449406,8.327495,,,,,,,,,118,
 18/03/2020 17:00,CH,AI,Appenzell Innerrhoden,47.328414,9.409647,,,,,,,,,3,
 18/03/2020 17:00,CH,AR,Appenzell Ausserrhoden,47.38271,9.27186,,,,,,,,,16,
@@ -26,3 +25,5 @@ date,country,abbreviation_canton,name_canton,lat,long,hospitalized_with_symptoms
 18/03/2020 17:00,CH,VS,Valais,46.209567,7.604659,,,,,,,,,232,
 18/03/2020 17:00,CH,ZG,Zug,47.157296,8.537294,,,,,,,,,23,
 18/03/2020 17:00,CH,ZH,Zürich,47.451542,8.564572,,,,,,,,,526,
+18/03/2020 17:00,AZ,AZ,Baku,17.7899,44.1624,,,,,,,,,2000,
+18/03/2020 17:00,DE,DE,Munich,42.2053,11.6033,,,,,,,,,2000,
